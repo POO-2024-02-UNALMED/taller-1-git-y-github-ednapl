@@ -1,3 +1,6 @@
 Edna Leandra 
 21
 Aprender sobre la POO y a programar en el lenguaje Java, reforzar y aprender nuevos conocimientos tambien en Python 
+La carpeta antes estaba vacia y por eso no se detectaba
+
+Porque se pueden presentar conflictos
